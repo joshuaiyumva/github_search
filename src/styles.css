@@ -1,2 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 @import 'bootstrap/dist/css/bootstrap.css';
+/* * {
+  font-size: small;
+} */
+body{
+    background-color: rgb(37, 37, 37);
+    background-image: url(https://res.cloudinary.com/jo-i/image/upload/v1605383103/wp3082255_itj9mp.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: small;
+}
