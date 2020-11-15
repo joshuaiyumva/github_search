@@ -1,0 +1,15 @@
+#searchInput {
+  width: 300px;
+}
+
+#searchBtn {
+  color: goldenrod;
+  border-color: goldenrod;
+  font-weight: bold;
+
+}
+
+#searchBtn:hover {
+  color: black;
+  background-color: goldenrod;
+}

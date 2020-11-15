@@ -1,13 +1,12 @@
-nav.navbar{
-    background-color: rgba(0, 0, 0, 0.5);
+nav.navbar {
+  background-color: rgba(0, 0, 0, 0.5);
 }
-#searchInput{
-    width: 300px;
+
+#linkItem {
+  color: white;
+  font-size: medium;
 }
-#linkItem{
-    color: white;
-    font-size: medium;
-}
-#linkItem:hover{
-    color: green;
+
+#linkItem:hover {
+  color: green;
 }
